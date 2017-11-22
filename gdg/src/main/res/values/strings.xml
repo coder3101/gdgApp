@@ -1,42 +1,42 @@
 <resources>
-    <string name="app_name">GDG</string>
+    <string name="app_name">GDG Jalandhar</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
     <string name="app_name_long">Google Developer Group\nJalandhar</string>
-    <string name="app_name_semi">Google Developers</string>
+    <string name="app_name_semi">Google Developers Group</string>
 
     <!--Welcome Screen Activity-->
     <string name="welcome">Welcome</string>
     <string name="using_google_account">Continue with Google</string>
     <string name="welcome_message">Google Developer Groups (GDGs) are for developers who are
-    interested in Google\'s Developer Technology\; Everything from Android, Chrome, Drive, and Google
+    interested in Google\'s Developers Technology\; Everything from Android, Chrome, Drive, and Google
         Cloud Platforms to Product API, Maps API, and Youtube API.\n\n\n
         A GDG can take many forms —from just a few people getting together to watch Google\'s Latest
         Videos,to large gatherings with demos and tech talks, to events like code sprints and hackathons.
         However at the core GDGs are focused on developers and technical contents, and the core audience should be developers.
     </string>
-    <string name="logging_in">Wait with Patience…</string>
-    <string name="google_play_service_error">Error : Cannot Connect to Google Play</string>
-    <string name="connecting_with_google">Connecting with Google…</string>
-    <string name="authenticating_you">Authenticating…</string>
-    <string name="auth_error">Failed to Log In</string>
-    <string name="database_check">Checking for Profile…</string>
+    <string name="logging_in">It may take a while</string>
+    <string name="google_play_service_error">Error : Cannot connect to Google Play Services</string>
+    <string name="connecting_with_google">Connecting with Google</string>
+    <string name="authenticating_you">Authenticating</string>
+    <string name="auth_error">Failed to Log in</string>
+    <string name="database_check">Checking for profile</string>
     <string name="something_went_wrong">Something went wrong.</string>
-    <string name="low_memory_warn">Low Memory : Application may not work as expected</string>
-    <string name="gathering_profile">Fetching the Profile…</string>
-    <string name="done">Done…</string>
+    <string name="low_memory_warn">Low memory : Application may not work as expected</string>
+    <string name="gathering_profile">Fetching the profile</string>
+    <string name="done">Done</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-    <string name="sure_to_leave">Are you sure ?</string>
-    <string name="back_message">Do you really want to go back ? \nYou have not completed your Profile,
-        going back at this stage will result in loss of all saved progress.</string>
-    <string name="profile_complete">Complete the Profile</string>
-    <string name="message_profile_create">We appreciate your Choice for Using official GDG Application to get updated about new events around you.
-        \n\nIt seems this is the first time you are using our application so,
-        we need to complete your profile. This only takes a minute or so.</string>
+    <string name="sure_to_leave">Are you sure?</string>
+    <string name="back_message">Do you really want to go back? \nYou have not completed your profile,
+        going back at this stage will result in loss of all the saved changes</string>
+    <string name="profile_complete">Complete the profile</string>
+    <string name="message_profile_create">We appreciate your choice for using official GDG Jalandhar application to get updates of new events near you.
+        \n\nIt seems this is the first time you are using this application so,
+        we need you to complete your profile. It will take just a moment.</string>
     <string name="hey">Hey</string>
     <string name="complete_my_profile">Complete My Profile</string>
     <string name="profile_complete_step1">Step 1</string>
@@ -47,7 +47,7 @@
     <string name="my_gender_is">My Gender is</string>
     <string name="my_name_is">My Username is</string>
     <string name="my_email_is">My Email is</string>
-    <string name="step1_info_messages">*  You cannot change this email. \n*  Your Username will be visible to members in the group.</string>
+    <string name="step1_info_messages">*  You cannot change this email. \n*  Your username will be visible to members in the group.</string>
     <string name="my_skills">(Select all that applies)</string>
 
     <string name="android_skills">Android Development</string>
@@ -57,63 +57,62 @@
     <string name="firebase_dev">Firebase Development</string>
     <string name="public_skills">Public Speaking</string>
     <string name="promotional">Promotional Skills</string>
-    <string name="step3_agree_messages">You agree to all the terms and conditions of Google Developer Group App.</string>
-    <string name="my_about_me">Describe Yourself in 3 Lines</string>
+    <string name="step3_agree_messages">You agree to all the terms and conditions of Google Developer Group Jalandhar App.</string>
+    <string name="my_about_me">Describe yourself in 3 lines</string>
     <string name="final_step3_info">* The above text will be visible to public.
-        \n* Your Position and Access Level will be upgraded by your leader once verified.
-        \n* Currently Your Access Level is set to PUBLIC ACCESS.</string>
-    <string name="login_interrupt">Interrupted by User</string>
+        \n* Your position and access level will be upgraded by your leader once verified.
+        \n* Currently your access level is set to PUBLIC ACCESS.</string>
+    <string name="login_interrupt">Interrupted by the user</string>
     <string name="next">Next</string>
     <string name="back">Back</string>
     <string name="required_field">Required Field</string>
-    <string name="checkbox_missing">Oops !! You missed to click the check box.</string>
-    <string name="skills_required">You need at least one of the following skills to be in GDG</string>
+    <string name="checkbox_missing">Oops! You missed to click the check box.</string>
+    <string name="skills_required">You need at least one of the following skills to be in GDG Jalandhar</string>
 
-
+    
     <string name="home">Home</string>
     <string name="events">Events</string>
-    <string name="admin_access">Admin Tools</string>
+    <string name="admin_access">Admin tools</string>
     <string name="notify">Notify</string>
     <string name="communicate">Communicate</string>
     <string name="share">Share</string>
-    <string name="about_us">About Us</string>
-    <string name="add_event">Add Event</string>
-    <string name="share_text">Hey, I got this Awesome application named GDG App. It notifies me of all the events of GDG Jalandhar Download it from the github releases at www.github.com/coder3101/gdgApp/releases</string>
-    <string name="send_using">Send Using</string>
+    <string name="about_us">About us</string>
+    <string name="add_event">Add event</string>
+    <string name="share_text">Hey, I got this awesome application named GDG Jalandhar App. It notifies me of all the events of GDG Jalandhar. Download it from the github releases at https://github.com/coder3101/gdgApp/releases</string>
+    <string name="send_using">Send using</string>
     <string name="google_developer_group">Google Developer Group</string>
-    <string name="designed_and_developed_by_ashar">Designed and Developed by Ashar \nLicensed Under GNU General Public License 2.0</string>
-    <string name="sign_out">Sign Out</string>
+    <string name="designed_and_developed_by_ashar">Designed and developed by Ashar \lLicensed under GNU General Public License 3.0</string>
+    <string name="sign_out">Sign out</string>
     <string name="version">Version :</string>
     <string name="sources">Sources</string>
-    <string name="denied">Please Re-login : Authentication Denied</string>
+    <string name="denied">Please Re-login : Authentication denied</string>
 
     <string name="google_dev">Google Developer</string>
 
-    <string name="upcoming_events">Upcoming Events</string>
+    <string name="upcoming_events">Upcoming events</string>
     <string name="last_message">Last Notification</string>
-    <string name="notification_body">Notification Body</string>
-    <string name="notification_title">Notification Title</string>
-    <string name="send_with_a_notification_sound">Send with a Notification Sound</string>
+    <string name="notification_body">Notification body</string>
+    <string name="notification_title">Notification title</string>
+    <string name="send_with_a_notification_sound">Send with a notification sound</string>
     <string name="send">Send</string>
-    <string name="missing">Field Missing</string>
-    <string name="notified_soon">Message will be delivered soon…</string>
+    <string name="missing">Field missing</string>
+    <string name="notified_soon">Message will be delivered soon</string>
     <string name="default_notification_channel_id">Default Channel ID</string>
     <string name="author">Author</string>
     <string name="time">Time</string>
     <string name="speakers">Speakers</string>
-    <string name="coming_soon">Coming Soon…</string>
-    <string name="about_event">About Event</string>
+    <string name="coming_soon">Coming soon</string>
+    <string name="about_event">About event</string>
     <string name="agenda">Agenda</string>
     <string name="pics">Pictures</string>
     <string name="on">On</string>
-    <string name="new_available">Update Available : </string>
+    <string name="new_available">Update available : </string>
     <string name="update_now">Update</string>
     <string name="ignore">Ignore</string>
-    <string name="chat_rooms">Chat Room</string>
+    <string name="chat_rooms">Chat room</string>
     <string name="delivered_message">Message delivered</string>
-    <string name="delivered_long">Your last message was delivered to all the GDG Members.</string>
+    <string name="delivered_long">Your last message was delivered to all the GDG Jalandhar Members.</string>
     <string name="okay">Okay</string>
     <string name="whats_new">Changelog for</string>
-
 
 </resources>
